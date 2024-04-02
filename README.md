@@ -12,5 +12,7 @@ This project aims to create a voice assistant using OpenAI's GPT-3 and IBM Watso
 
 <img src='./static/assets/archit.png'  width="640"/>
 
-
+#TODO : tomorrow 
++ Project tailoring  
++ Add api code to enable other to use the project 
 ---
